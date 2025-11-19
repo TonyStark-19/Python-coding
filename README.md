@@ -16,6 +16,8 @@ The repo is organized into folders based on different topics, making it easier t
 
 ## 📂 Repository Structure
 
+🔹 Core Python Concepts
+
 - **Basic questions** – Beginner Python practice problems  
 - **Conditional statements** – If-else, nested conditions, logical operators  
 - **Dictionary** – Dictionary operations, methods, and practice exercises  
@@ -23,15 +25,19 @@ The repo is organized into folders based on different topics, making it easier t
 - **Functions and Recursion** – Function basics, parameters, recursion problems  
 - **Lists** – Lists, list methods, list comprehension  
 - **Loops** – For loops, while loops, loop-based problems  
-- **Matplotlib** – Data visualization using `matplotlib` library  
-- **Numpy** – Numerical computing using `numpy` library  
 - **OOPS** – Object-Oriented Programming (Classes, Objects, Inheritance, etc.)  
-- **Pandas** – Data analysis and manipulation using `pandas`  
-- **Project** – Mini Python projects for practical learning  
-- **Seaborn** – Advanced visualization using `seaborn`  
 - **Set** – Set operations and applications  
 - **Strings** – String methods, manipulation, and exercises  
 - **Tuple** – Tuples and their properties  
+
+🔹 Python Libraries
+- **Numpy** – Numerical computing using `numpy` library
+- **Pandas** – Data analysis and manipulation using `pandas`
+- **Matplotlib** – Data visualization using `matplotlib` library
+- **Seaborn** – Advanced visualization using `seaborn`
+
+🔹 Projects
+- **Project** – Mini Python projects for practical learning  
 
 ---
 
@@ -94,10 +100,11 @@ Some examples of work in this repo:
 
 ## 🎯 Goals of This Repository
 
-- Build a strong foundation in core Python concepts
-- Explore and practice with popular Python libraries
-- Document my 100 Days of Code journey and projects
-- Create a collection of mini projects to apply what I’ve learned
+- Build a strong foundation in core Python programming
+- Practice and explore popular Python libraries
+- Document my 100 Days of Code journey
+- Create a reference repo for concepts + visualizations + mini-projects
+- Improve consistency and hands-on coding skills
 
 ---
 
