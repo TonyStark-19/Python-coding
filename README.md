@@ -28,11 +28,24 @@ This repository documents my **Python learning journey**, covering:
 * 📓 **Extensive Jupyter notebooks** used as structured notes + hands-on practice
 * 🛠️ **Mini projects** for applying concepts in real-world scenarios
 
+---
+
 The goal of this repo is to act as:
 
 * A **personal reference** for revision
 * A **practice playground** for concepts
 * A **showcase of consistency** through my *#100DaysOfCode* journey
+
+---
+
+## 🎯 Goals of This Repository
+
+* Build a **strong foundation** in Python
+* Develop **problem-solving skills**
+* Learn **data analysis & visualization** libraries deeply
+* Maintain **structured notes** for revision
+* Track progress through **#100DaysOfCode**
+* Create a reusable **learning reference**
 
 ---
 
@@ -77,13 +90,15 @@ I am also actively learning **AI, Machine Learning, and Data Science** from *Apn
 
 ---
 
-## 🔹 Additional Core Topics
+## ⚙️ Practical Python Concepts
 
 ### 📦 Exception Handling
 
 * Covers common runtime errors
 * Proper use of `try`, `except`, `else`, and `finally`
 * **2 dedicated topics** with examples
+
+---
 
 ### 🗂️ Working with JSON
 
@@ -114,11 +129,15 @@ This section focuses on understanding and working with data **before using heavy
   * Level 1 – 1 notebook
   * Level 2 – 1 notebook
 
+---
+
 ### 🐼 Pandas
 
 * 1 notebook → Pandas notes
 * 1 notebook → Series deep dive
 * 1 notebook → DataFrame deep dive
+
+---
 
 ### 📈 Matplotlib
 
@@ -129,6 +148,8 @@ This section focuses on understanding and working with data **before using heavy
   * Bivariate Analysis
   * Multivariate Analysis
 * 1 notebook → Object-Oriented (OO) API
+
+---
 
 ### 🎨 Seaborn
 
@@ -142,6 +163,42 @@ This section focuses on understanding and working with data **before using heavy
 * **Mini Python Projects**
 
   * 3 small projects focused on applying Python concepts practically
+
+---
+
+## 📸 Visualizations Preview
+
+Some examples of work in this repo:
+
+> ### Matplotlib plots:
+
+| Line Chart  | Box Plot |
+|------------|------------|
+| ![Screenshot 1](images/M1.png) | ![Screenshot 2](images/M2.png) |
+
+| Bar Plot | Bubble Plot |
+|------------|------------|
+| ![Screenshot 3](images/M3.png) | ![Screenshot 4](images/M4.png) |
+
+| Multiple Datasets Line Chart | 3D Plot |
+|------------|------------|
+| ![Screenshot 3](images/M5.png) | ![Screenshot 4](images/M6.png) |
+
+---
+
+> ### Seaborn plots:
+
+| Scatter Plot  | Sworm Plot |
+|------------|------------|
+| ![Screenshot 1](images/S1.png) | ![Screenshot 2](images/S2.png) |
+
+| Line Plot | Violin Plot |
+|------------|------------|
+| ![Screenshot 3](images/S3.png) | ![Screenshot 4](images/S4.png) |
+
+| Heat Map | Pair Grid |
+|------------|------------|
+| ![Screenshot 3](images/S5.png) | ![Screenshot 4](images/S6.png) |
 
 ---
 
@@ -182,53 +239,6 @@ pip install -r requirements.txt
    ```bash
    jupyter notebook
    ```
----
-
-## 📸 Visualizations Preview
-
-Some examples of work in this repo:
-
-> ### Matplotlib plots:
-
-| Line Chart  | Box Plot |
-|------------|------------|
-| ![Screenshot 1](images/M1.png) | ![Screenshot 2](images/M2.png) |
-
-| Bar Plot | Bubble Plot |
-|------------|------------|
-| ![Screenshot 3](images/M3.png) | ![Screenshot 4](images/M4.png) |
-
-| Multiple Datasets Line Chart | 3D Plot |
-|------------|------------|
-| ![Screenshot 3](images/M5.png) | ![Screenshot 4](images/M6.png) |
-
----
-
-> ### Seaborn plots:
-
-| Scatter Plot  | Sworm Plot |
-|------------|------------|
-| ![Screenshot 1](images/S1.png) | ![Screenshot 2](images/S2.png) |
-
-| Line Plot | Violin Plot |
-|------------|------------|
-| ![Screenshot 3](images/S3.png) | ![Screenshot 4](images/S4.png) |
-
-| Heat Map | Pair Grid |
-|------------|------------|
-| ![Screenshot 3](images/S5.png) | ![Screenshot 4](images/S6.png) |
-
----
-
-## 🎯 Goals of This Repository
-
-* Build a **strong foundation** in Python
-* Develop **problem-solving skills**
-* Learn **data analysis & visualization** libraries deeply
-* Maintain **structured notes** for revision
-* Track progress through **#100DaysOfCode**
-* Create a reusable **learning reference**
-
 ---
 
 ## 📚 Resources
