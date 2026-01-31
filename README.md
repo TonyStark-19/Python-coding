@@ -271,4 +271,12 @@ are always welcome 🙂
 
 ---
 
+## 📜 License
+
+This project is licensed under the MIT License.
+Feel free to use, modify, and share it – just give proper credit.
+Check the [LICENSE](LICENSE) file for more details.
+
+---
+
 ✨ *If you find this repo useful, consider giving it a star!* ⭐
